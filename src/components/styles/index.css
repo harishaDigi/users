@@ -1,0 +1,65 @@
+.main-div{
+          display: flex;
+          justify-content: center;
+          min-height: 100vh;
+          background: rgb(212, 212, 230)
+}
+.login-container {
+          width: 25%;
+          margin-top: 12%;
+          height: fit-content;
+          border: 1px solid grey;
+          /* background: rgb(212, 212, 230); */
+          text-align: center;
+          background: white;
+      }
+.input-field{
+          margin: 5%;
+          }
+.title{
+            font-size: 15px;
+            color:rgb(96, 96, 243);
+            margin:3%;
+}
+.side-nav-top{
+width:100%;
+height:22%;
+background:pink;
+}
+.side-nav-bottom{
+margin-top: 10px;
+width:100%;
+height:77%;
+background: pink;
+}
+.side-nav-main{
+    widows: 100%;
+    height: 100%;
+
+}
+.main-container{
+    background: rgb(180, 180, 233);
+}
+.top-main-container{
+    background: rgb(199, 225, 231);
+}
+.bottom-main-container{
+    background: rgb(165, 223, 165);
+}
+.body-cards{
+    display: inline-block;
+    height:100px;
+    width:100px;
+    background: white;
+    margin: 2%;
+}
+table {
+   border: 2px solid rgb(35, 61, 35);
+}
+tr td{
+    border: 1px solid rgb(35, 61, 35);
+}
+th{
+    background: rgb(195, 240, 195);
+    text-align: center;
+}
